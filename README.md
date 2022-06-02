@@ -1,0 +1,1 @@
+# vadalarm-ef-code-decoder
